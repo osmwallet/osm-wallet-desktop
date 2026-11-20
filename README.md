@@ -39,7 +39,7 @@ Compute the hash of the file you received and compare it with the value below. W
 
 A mismatch means the file is not the one published here: delete it, download it again from the release page, and compare once more before running anything. If it still differs, stop and use another machine, because the download is being altered in transit.
 
-## What this repository is for
+## What this repository is for?
 
 This is the home of the OSM Wallet desktop application and the place a build is published. The installer for each supported platform is attached to a tagged release, the release notes describe what changed, and this page is the shortest path from "I want to hold my own XRP" to "the wallet is running on my machine". The wallet is non-custodial: it holds the key on your computer, signs what you approve, and submits it to the XRP Ledger. Nothing about your balance lives on a server, and no account, email address or sign-up stands between you and the network.
 
